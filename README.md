@@ -1,11 +1,11 @@
 📚 Flashcard Learning App
 
-A simple and interactive learning app where users can create, edit, delete, and search flashcards. Perfect for learners to revise and prepare for assessments.
+A simple and interactive learning app that allows users to create, edit, delete, and search flashcards. Perfect for learners to revise and prepare for assessments.
+
 
 🚀 Live Demo
 
 Frontend (Vercel): https://plp-final-project-phi.vercel.app
-Backend (Render): https://plp-final-project-39op.onrender.com
 
 
 ✨ Features
@@ -21,7 +21,22 @@ Backend (Render): https://plp-final-project-39op.onrender.com
 ✅ Toggle between light and dark theme
 
 
+💻 Getting Started
+
+Clone the repository
+git clone https://github.com/Kendi-Sally/PLP-Final-Project.git
+cd Final Project
+
+Backend
+cd backend
+npm install
+npm run dev
+
+Frontend
+cd frontend
+npm install
+npm run dev
+
 
 📄 License
-
 MIT License
