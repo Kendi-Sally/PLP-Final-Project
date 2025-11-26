@@ -1,16 +1,51 @@
-# React + Vite
+📚 Flashcard Learning App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive learning app that allows users to create, edit, delete, and search flashcards. Perfect for learners to revise and prepare for assessments.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Live Demo
 
-## React Compiler
+Frontend (Vercel): https://plp-final-project-phi.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Create, edit, and delete flashcards
+
+✅ Search flashcards by keyword or category
+
+✅ User authentication (Login / Register)
+
+✅ Interactive and responsive UI
+
+✅ Toggle between light and dark theme
+
+
+💻 Getting Started
+
+*Clone the repository*
+
+git clone https://github.com/Kendi-Sally/PLP-Final-Project.git
+
+cd Final Project
+
+*Backend*
+
+cd backend
+
+npm install
+
+npm run dev
+
+
+*Frontend*
+
+cd frontend
+
+npm install
+
+npm run dev
+
+
+📄 *License*
+MIT License
