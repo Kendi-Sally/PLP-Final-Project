@@ -23,8 +23,10 @@ Frontend (Vercel): https://plp-final-project-phi.vercel.app
 
 💻 Getting Started
 
-Clone the repository
+*Clone the repository*
+
 git clone https://github.com/Kendi-Sally/PLP-Final-Project.git
+
 cd Final Project
 
 *Backend*
