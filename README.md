@@ -28,6 +28,7 @@ git clone https://github.com/Kendi-Sally/PLP-Final-Project.git
 cd Final Project
 
 Backend
+
 cd backend
 
 npm install
@@ -36,6 +37,7 @@ npm run dev
 
 
 Frontend
+
 cd frontend
 
 npm install
