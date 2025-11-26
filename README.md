@@ -27,7 +27,7 @@ Clone the repository
 git clone https://github.com/Kendi-Sally/PLP-Final-Project.git
 cd Final Project
 
-Backend
+*Backend*
 
 cd backend
 
@@ -36,7 +36,7 @@ npm install
 npm run dev
 
 
-Frontend
+*Frontend*
 
 cd frontend
 
@@ -45,5 +45,5 @@ npm install
 npm run dev
 
 
-📄 License
+📄 *License*
 MIT License
